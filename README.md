@@ -9,7 +9,7 @@
 ## Contents
 
 - [Programming-Languages](#programming-languages)
-- [Related](#related)
+- [Awesome-Related](#awesome-related)
 
 ## Programming-Languages
   
@@ -22,7 +22,7 @@ https://awesome-python.com/) - Python is Awesome.
 - [Awesome-PHP](
 https://github.com/ziadoz/awesome-php) - Amazingly awesome PHP resources.
 
-## Related
+## Awesome-Related
 
 - [Awesome-CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
